@@ -183,13 +183,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v4xx-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/lge/v4xx-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/lge/v4xx-common/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
-    vendor/lge/v4xx-common/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
-    vendor/lge/v4xx-common/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
-    vendor/lge/v4xx-common/proprietary/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
-    vendor/lge/v4xx-common/proprietary/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
-    vendor/lge/v4xx-common/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
-    vendor/lge/v4xx-common/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
-    vendor/lge/v4xx-common/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/lge/v4xx-common/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/lge/v4xx-common/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/v4xx-common/proprietary/bin/qmiproxy:system/bin/qmiproxy \
