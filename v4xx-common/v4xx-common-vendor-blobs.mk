@@ -172,7 +172,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v4xx-common/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/lge/v4xx-common/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/lge/v4xx-common/proprietary/bin/mpdecision:system/bin/mpdecision \
-    vendor/lge/v4xx-common/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
+    vendor/lge/v4xx-common/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
     vendor/lge/v4xx-common/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/lge/v4xx-common/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/lge/v4xx-common/proprietary/vendor/lib/hw/sensors.msm8226.so:system/vendor/lib/hw/sensors.msm8226.so \
