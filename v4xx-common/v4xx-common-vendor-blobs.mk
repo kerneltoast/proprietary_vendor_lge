@@ -223,4 +223,13 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v4xx-common/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
     vendor/lge/v4xx-common/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
     vendor/lge/v4xx-common/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
-    vendor/lge/v4xx-common/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so
+    vendor/lge/v4xx-common/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
+    vendor/lge/v4xx-common/proprietary/etc/firmware/wcnss.b00:system/etc/firmware/wcnss.b00 \
+    vendor/lge/v4xx-common/proprietary/etc/firmware/wcnss.b01:system/etc/firmware/wcnss.b01 \
+    vendor/lge/v4xx-common/proprietary/etc/firmware/wcnss.b02:system/etc/firmware/wcnss.b02 \
+    vendor/lge/v4xx-common/proprietary/etc/firmware/wcnss.b04:system/etc/firmware/wcnss.b04 \
+    vendor/lge/v4xx-common/proprietary/etc/firmware/wcnss.b06:system/etc/firmware/wcnss.b06 \
+    vendor/lge/v4xx-common/proprietary/etc/firmware/wcnss.b07:system/etc/firmware/wcnss.b07 \
+    vendor/lge/v4xx-common/proprietary/etc/firmware/wcnss.b08:system/etc/firmware/wcnss.b08 \
+    vendor/lge/v4xx-common/proprietary/etc/firmware/wcnss.b09:system/etc/firmware/wcnss.b09 \
+    vendor/lge/v4xx-common/proprietary/etc/firmware/wcnss.mdt:system/etc/firmware/wcnss.mdt
