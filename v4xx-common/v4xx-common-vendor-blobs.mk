@@ -186,6 +186,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v4xx-common/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/lge/v4xx-common/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/v4xx-common/proprietary/bin/qmiproxy:system/bin/qmiproxy \
+    vendor/lge/v4xx-common/proprietary/bin/radish:system/bin/radish \
     vendor/lge/v4xx-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/v4xx-common/proprietary/bin/rild:system/bin/rild \
     vendor/lge/v4xx-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
