@@ -162,14 +162,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v4xx-common/proprietary/lib/libirrcJni.so:system/lib/libirrcJni.so \
     vendor/lge/v4xx-common/proprietary/lib/liblgewg.so:system/lib/liblgewg.so \
     vendor/lge/v4xx-common/proprietary/vendor/lib/libmmipstreamaal.so:system/vendor/lib/libmmipstreamaal.so \
-    vendor/lge/v4xx-common/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
-    vendor/lge/v4xx-common/proprietary/vendor/lib/libOmxAmrwbplusDec.so:system/vendor/lib/libOmxAmrwbplusDec.so \
-    vendor/lge/v4xx-common/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
-    vendor/lge/v4xx-common/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
-    vendor/lge/v4xx-common/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
-    vendor/lge/v4xx-common/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
-    vendor/lge/v4xx-common/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
-    vendor/lge/v4xx-common/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/lge/v4xx-common/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/v4xx-common/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
     vendor/lge/v4xx-common/proprietary/bin/irsc_util:system/bin/irsc_util \
